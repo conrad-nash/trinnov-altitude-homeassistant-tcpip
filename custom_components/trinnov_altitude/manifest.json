@@ -3,10 +3,10 @@
   "name": "Trinnov Altitude",
   "codeowners": ["@binarylogic"],
   "config_flow": true,
-  "documentation": "https://www.home-assistant.io/integrations/trinnov_altitude",
+  "documentation": "https://github.com/conrad-nash/trinnov-altitude-homeassistant-tcpip",
   "iot_class": "local_push",
-  "issue_tracker": "https://github.com/binarylogic/trinnov-altitude-homeassistant/issues",
+  "issue_tracker": "https://github.com/conrad-nash/trinnov-altitude-homeassistant-tcpip/issues",
   "loggers": ["trinnov_altitude"],
   "requirements": ["trinnov_altitude>=1.2.5"],
-  "version": "1.2.6"
+  "version": "1.2.7"
 }

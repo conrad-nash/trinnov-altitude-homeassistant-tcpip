@@ -7,6 +7,6 @@
   "iot_class": "local_push",
   "issue_tracker": "https://github.com/conrad-nash/trinnov-altitude-homeassistant-tcpip/issues",
   "loggers": ["trinnov_altitude"],
-  "requirements": ["trinnov_altitude>=1.2.5"],
+  "requirements": [https://github.com/conrad-nash/trinnov-altitude-tcpip.git],
   "version": "1.2.7"
 }
